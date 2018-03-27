@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/popcorn-official/popcorn-desktop.svg?branch=master)](https://travis-ci.org/popcorn-official/popcorn-desktop)
 [![Dependency Status](https://david-dm.org/popcorn-official/popcorn-desktop.svg)](https://david-dm.org/popcorn-official/popcorn-desktop)
 [![devDependency Status](https://david-dm.org/popcorn-official/popcorn-desktop/dev-status.svg)](https://david-dm.org/popcorn-official/popcorn-desktop#info=devDependencies)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faccidentalmeme%2Fpopcorn-desktop.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Faccidentalmeme%2Fpopcorn-desktop?ref=badge_shield)
 
 Allow any user to easily watch movies through torrent streaming, without any prerequisites.
 
@@ -86,3 +87,7 @@ You should have received a copy of the GNU General Public License along with thi
 
 Copyright (c) 2015 Popcorn Time Project - Released under the
 [GPL v3 license](LICENSE.txt).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faccidentalmeme%2Fpopcorn-desktop.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Faccidentalmeme%2Fpopcorn-desktop?ref=badge_large)
